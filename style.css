@@ -19,3 +19,8 @@ h1{font-style: italic ;
   text-align: center;
   text-decoration: underline;
 }
+
+.picture {
+
+  border-radius: 100%;
+}
